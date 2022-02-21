@@ -11,6 +11,5 @@ Habilidades: NODE JS / REACT / JS / HTML / CSS / POSTGRESQL / GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gdondena)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdondena)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile views](https://gpvc.arturio.dev/Gdondena)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdondena)](https://github.com/Gdondena/github-readme-stats)
+ 
