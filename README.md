@@ -1,15 +1,11 @@
-### Hola 👋, my nombre es Guillermina
-#### Soy Full Stack Developer
+### Hello 👋, my name is Guillermina
+#### I'm a Full Stack Developer
 
-Habilidades: NODE JS / REACT / JS / HTML / CSS / POSTGRESQL / GIT 
+Skills: NODE JS / REACT / JS / HTML / CSS / POSTGRESQL / GIT
 
-- 🔭 Estoy trabajando en una RESTfull API 
-- 🌱 Estoy aprendiendo Front y Backend 
-- 📫 Cómo contactarme: guillerminadondena@gmail.com 
-- 😄 Pronombres: Guille 
+- 🔭  I am finishing a RESTfull api and actively looking for a job, to have my first experience in the IT world
+- 🌱 I have knowledge in Frontend, Backend and Database
+- 📫 How to contact me: guillerminadondena@gmail.com or send me a message on my linkedin: https://www.linkedin.com/in/guillermina-dondena-864631174/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gdondena)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdondena)](https://github.com/Gdondena/github-readme-stats)
  
